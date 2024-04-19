@@ -1,0 +1,14 @@
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\obj\Debug\net8.0\TaskSchedule.DAL.csproj.AssemblyReference.cache
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\obj\Debug\net8.0\TaskSchedule.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\obj\Debug\net8.0\TaskSchedule.DAL.AssemblyInfoInputs.cache
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\obj\Debug\net8.0\TaskSchedule.DAL.AssemblyInfo.cs
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\obj\Debug\net8.0\TaskSchedule.DAL.csproj.CoreCompileInputs.cache
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\bin\Debug\net8.0\TaskSchedule.DAL.deps.json
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\bin\Debug\net8.0\TaskSchedule.DAL.runtimeconfig.json
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\bin\Debug\net8.0\TaskSchedule.DAL.dll
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\bin\Debug\net8.0\TaskSchedule.DAL.pdb
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\obj\Debug\net8.0\TaskSchedule.DAL.dll
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\obj\Debug\net8.0\refint\TaskSchedule.DAL.dll
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\obj\Debug\net8.0\TaskSchedule.DAL.pdb
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\obj\Debug\net8.0\TaskSchedule.DAL.genruntimeconfig.cache
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.DAL\obj\Debug\net8.0\ref\TaskSchedule.DAL.dll

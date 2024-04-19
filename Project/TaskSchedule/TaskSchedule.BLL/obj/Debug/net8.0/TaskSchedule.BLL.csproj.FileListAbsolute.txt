@@ -1,0 +1,17 @@
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\TaskSchedule.BLL.csproj.AssemblyReference.cache
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\TaskSchedule.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\TaskSchedule.BLL.AssemblyInfoInputs.cache
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\TaskSchedule.BLL.AssemblyInfo.cs
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\TaskSchedule.BLL.csproj.CoreCompileInputs.cache
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\bin\Debug\net8.0\TaskSchedule.BLL.deps.json
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\bin\Debug\net8.0\TaskSchedule.BLL.runtimeconfig.json
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\bin\Debug\net8.0\TaskSchedule.BLL.dll
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\bin\Debug\net8.0\TaskSchedule.BLL.pdb
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\bin\Debug\net8.0\TaskSchedule.DAL.dll
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\bin\Debug\net8.0\TaskSchedule.DAL.pdb
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\TaskSche.A83CA5E1.Up2Date
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\TaskSchedule.BLL.dll
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\refint\TaskSchedule.BLL.dll
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\TaskSchedule.BLL.pdb
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\TaskSchedule.BLL.genruntimeconfig.cache
+C:\Users\buchy\OneDrive\Desktop\src\MainApp\TaskSchedule\TaskSchedule.BLL\obj\Debug\net8.0\ref\TaskSchedule.BLL.dll
