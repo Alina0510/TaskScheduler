@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using TaskSchedule.DAL;
 using TaskSchedule.DAL.Models;
+using TaskScheduler.Web.Middleware;
 
 namespace TaskScheduler.Web
 {
@@ -21,7 +22,7 @@ namespace TaskScheduler.Web
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
-
+            app.UseMiddleware<ExceptionHandlingMiddleware>();
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
