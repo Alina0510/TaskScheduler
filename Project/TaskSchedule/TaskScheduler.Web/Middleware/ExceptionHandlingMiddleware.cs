@@ -30,8 +30,6 @@ namespace TaskScheduler.Web.Middleware
         {
             _logger.LogError(exception, "An unexpected error occurred.");
 
-            //More log stuff        
-
             ExceptionResponse response = exception switch
             {
                 ApplicationException _ => new ExceptionResponse(HttpStatusCode.BadRequest, "Application exception occurred."),
