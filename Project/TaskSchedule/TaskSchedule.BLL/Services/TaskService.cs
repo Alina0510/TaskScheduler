@@ -7,15 +7,17 @@ using TaskSchedule.BLL.Models;
 using TaskSchedule.DAL.Models;
 using TaskSchedule.DAL;
 using Microsoft.EntityFrameworkCore;
+using log4net.Core;
 
 namespace TaskSchedule.BLL.Services
 {
     public class TaskService
     {
         private ApplicationContext _context;
-        public TaskService(ApplicationContext context)
+        private ILogger _logger;
+        public TaskService(ApplicationContext context, ILogger logger)
         {
-
+            _logger = logger;
             _context = context;
 
         }

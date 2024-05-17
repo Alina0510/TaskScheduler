@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using log4net.Core;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,9 +14,10 @@ namespace TaskSchedule.BLL.Services
     public class UserService
     {
         private ApplicationContext _context;
-        public UserService(ApplicationContext context)
+        private ILogger _logger;
+        public UserService(ApplicationContext context, ILogger logger)
         {
-
+            _logger = logger;
             _context = context;
 
         }
